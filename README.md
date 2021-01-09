@@ -1,4 +1,4 @@
-# SA_using_bert_tokenizer
+# sentiment_analysis_using_bert_tokenizer
 Doing sentiment analysis using bert Tokenizer and CNN.
 
 
